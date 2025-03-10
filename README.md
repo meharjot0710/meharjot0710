@@ -8,8 +8,6 @@ Here’s a **stylish and professional** GitHub `README.md` for your profile. It 
 🚀 Passionate about AI, Machine Learning, and Full-Stack Development  
 📍 BE CSE AI @ Chitkara University  
 
-![Meharjot's GitHub Banner]([https://user-images.githubusercontent.com/your-image-link.png](https://images.creativemarket.com/0.1.0/ps/1068169/6250/6250/m1/fpnw/wm0/programming-.jpg?1457490303&s=525e71dae5c577b611a1b5499c6eaa5e)) 
-
 ---
 
 ### **🚀 About Me**
