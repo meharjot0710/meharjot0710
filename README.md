@@ -43,7 +43,7 @@ Here’s a **stylish and professional** GitHub `README.md` for your profile. It 
 
 ### **📢 Connect with Me**  
 💼 **LinkedIn**: [Meharjot Singh](https://linkedin.com/in/meharjot03)  
-📧 **Email**: meharjotsingh0710@gmail.com  
+📧 **Email**: meharjotsingh03@gmail.com  
 🌐 **Portfolio**: [meharjot.vercel.app](https://meharjot.vercel.app) *(Coming Soon!)*  
 
 ---
