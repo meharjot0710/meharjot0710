@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here’s a **stylish and professional** GitHub `README.md` for your profile. It highlights your projects, skills, and achievements in a clean and engaging format.  
-
 ---  
 
 ## **💡 Meharjot Singh | AI & Web Developer**  
