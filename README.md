@@ -36,6 +36,10 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=meharjot0710&color=blue)
+
+---
+
 ### **📢 Connect with Me**  
 💼 **LinkedIn**: [Meharjot Singh](https://linkedin.com/in/meharjot03)  
 📧 **Email**: meharjotsingh03@gmail.com  
