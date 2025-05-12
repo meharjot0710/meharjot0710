@@ -34,9 +34,6 @@
 ![Meharjot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meharjot0710&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meharjot0710&layout=compact&theme=radical)  
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=meharjot0710&color=blue)
 
 ---
 
