@@ -7,7 +7,6 @@
 
 ### **🚀 About Me**
 🔹 AI Enthusiast | Web Developer | ML Researcher  
-🔹 Currently working on **SmartInterest AI** – A Student Interest Prediction System  
 🔹 Solved **270+ DSA problems** | Completed **100DaysOfCode Challenge**  
 🔹 Love building **AI-driven applications** & contributing to Open Source  
 
