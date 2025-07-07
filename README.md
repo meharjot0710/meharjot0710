@@ -22,7 +22,7 @@
 ---
 
 ### **📌 Featured Projects**  
-🚀 **[ResuMatch AI](https://github.com/meharjot0710/ResuMatch-AI-Frontend)** - Resume analysis based on job role or description
+🚀 **[ResuMatch AI](https://github.com/meharjot0710/ResuMatch-AI-Frontend)** - Resume analysis based on job role or description  
 🚀 **[SmartInterest AI](https://github.com/meharjot0710/SmartInterest-AI)** - AI-driven student interest analysis  
 🛡️ **[FaceSecure](https://github.com/meharjot0710/FaceSecure)** - Face Recognition System for Attendance & Security  
 📝 **[Quizee - Online Exam System](https://github.com/meharjot0710/Quizee-Online-exam-System)** - Online exam platform  
