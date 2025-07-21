@@ -39,7 +39,7 @@
 
 ### **📢 Connect with Me**  
 💼 **LinkedIn**: [Meharjot Singh](https://linkedin.com/in/meharjot03)  
-📧 **Email**: meharjotsingh03@gmail.com  
+📧 **Email**: meharjot03@gmail.com  
 🌐 **Portfolio**: [meharjot.shop](https://meharjot.shop)
 
 ---
