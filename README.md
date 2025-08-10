@@ -30,13 +30,6 @@
 
 ---
 
-### **📈 GitHub Stats**  
-![Meharjot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meharjot0710&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meharjot0710&layout=compact&theme=radical)  
-
-
----
-
 ### **📢 Connect with Me**  
 💼 **LinkedIn**: [Meharjot Singh](https://linkedin.com/in/meharjot03)  
 📧 **Email**: meharjot03@gmail.com  
