@@ -21,15 +21,6 @@
 
 ---
 
-### **📌 Featured Projects**  
-🚀 **[ResuMatch AI](https://github.com/meharjot0710/ResuMatch-AI-Frontend)** - Resume analysis based on job role or description  
-🚀 **[SmartInterest AI](https://github.com/meharjot0710/SmartInterest-AI)** - AI-driven student interest analysis  
-🛡️ **[FaceSecure](https://github.com/meharjot0710/FaceSecure)** - Face Recognition System for Attendance & Security  
-📝 **[Quizee - Online Exam System](https://github.com/meharjot0710/Quizee-Online-exam-System)** - Online exam platform  
-📊 **[NutriFlow](https://meharjot0710.github.io/NutriFlow/#/)** - Personalized nutrition tracker  
-
----
-
 ### **📢 Connect with Me**  
 💼 **LinkedIn**: [Meharjot Singh](https://linkedin.com/in/meharjot03)  
 📧 **Email**: meharjot03@gmail.com  
